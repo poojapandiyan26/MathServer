@@ -75,7 +75,7 @@ h1 {
 <div class="edge">
     <div class="box">
         <h1>Power Calculation</h1>
-        <h3>Sushmtiha Gembunathan (24001544)</h3>
+        <h3>Pooja Sri P (24007629)</h3>
         <form method="POST">
             {% csrf_token %}
             <div class="formelt">
